@@ -1,6 +1,5 @@
 //Desafio Classificador de nível de Herói//
-//NOVA VERSAO//
-//VERSÃO TESTE PELO ROBERTO//
+//NOVA VERSAO COMITADA//
 // Variáveis//
 let nomeDoHeroi = "Super Herói";
 let experienciaDoHeroi = 7500;
